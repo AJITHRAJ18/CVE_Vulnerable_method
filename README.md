@@ -70,13 +70,8 @@ The tool will:
 - Access to a supported Large Language Model API (Google Gemini, etc.)
 
 ## Notes
-
-- This tool is intended for research and educational purposes.
 - The accuracy of the analysis depends on the quality and availability of public information and the language model’s capabilities.
 
-## License
-
-[Add your license here]
 
 ## Acknowledgments
 
